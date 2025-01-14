@@ -4,15 +4,15 @@ public class Main
 {
     public static void main(String[] args)
     {
-        int[][] array = {{ 3, 5, 7, 8, 0 },
-                         { 500, 250, 125, 784, 267, 674, 0 },
-                         { 9, 8, 0 }};
+        // Create 2D array
 
-        // Call the updateValue method three times on this array:
+        // Change the final element of the 1D array at index 0 to the total length of the 2D array
 
+        // Add the value at the 1st and last index of the 2D array to the value of the last element in the 1D array at index 1
 
+        // Change each value of the 1D array at index 2 to display the length of each respective 1D array.
 
-        print(array);
+        // Print the new array
     }
 
 
